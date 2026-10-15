@@ -53,7 +53,7 @@ function Principal() {
             <div className="mt-8 pt-6 border-t border-gray-200 flex items-center justify-between">
               <div>
                 {/* Website se exact name copy karke yahan daalein */}
-                <h4 className="text-xl font-bold text-gray-900">Dr. BAGISH PANDEY</h4>
+                <h4 className="text-xl font-bold text-gray-900">Bagish Pandey</h4>
                 <div className="flex items-center gap-2 mt-1">
                   <BookOpen className="w-4 h-4 text-blue-600" />
                   <p className="text-sm font-bold text-blue-600 uppercase tracking-wider">

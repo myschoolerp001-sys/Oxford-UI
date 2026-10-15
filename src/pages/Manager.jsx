@@ -51,7 +51,7 @@ function Manager() {
 
             <div className="mt-8 pt-6 border-t border-gray-100 flex items-center justify-between">
               <div>
-                <h4 className="text-xl font-bold text-gray-900">Anil Mishra</h4>
+                <h4 className="text-xl font-bold text-gray-900">Advocate Anil Mishra</h4>
                 <p className="text-sm font-bold text-blue-600 uppercase tracking-wider mt-1">
                   Manager, Oxford Public School
                 </p>

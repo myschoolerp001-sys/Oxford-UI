@@ -53,7 +53,7 @@ function AboutUs() {
                 <span className="text-[#F59E0B] font-bold tracking-wider uppercase text-sm">Our Story</span>
               </div>
               <h2 className="text-3xl md:text-4xl font-extrabold text-[#1E3A8A] mb-6">
-                Nurturing Young Minds Since 2014
+                Nurturing Young Minds Since 2010
               </h2>
               <p className="text-gray-600 mb-6 text-lg leading-relaxed">
                 Oxford Public School was established with a dream to provide quality and holistic education to students in Shahjahanpur. Over the years, we have grown into a premier institution that balances traditional values with modern teaching methodologies.

@@ -27,11 +27,10 @@ function MandatoryDisclosure() {
   const generalInfo = [
     { id: 'gen-1', label: 'Name of the School', value: 'Oxford Public School' },
     { id: 'gen-2', label: 'Affiliation No. (If applicable)', value: '2133870' },
-    { id: 'gen-3', label: 'School Code (If applicable)', value: '70000' },
     { id: 'gen-4', label: 'Complete Address with Pin Code', value: 'Raskoopa Bahadurpur, Kanth, Shahjahanpur, U.P. Pin-242223' },
     { id: 'gen-5', label: 'Principal Name & Qualification', value: 'Mr. Bagish Kumar Pandey (M.Sc., B.Ed)' },
     { id: 'gen-6', label: 'School Email ID', value: 'info@opsspn.in' },
-    { id: 'gen-7', label: 'Contact Details (Landline/Mobile)', value: '+91 9415847324' },
+    { id: 'gen-7', label: 'Contact Details (Landline/Mobile)', value: '+91 9450124541 ' },
   ];
 
   // Section B: Documents & Information (Updated with all your PDFs)[cite: 1]
@@ -70,8 +69,8 @@ function MandatoryDisclosure() {
 
   // Section D: School Infrastructure[cite: 1]
   const infrastructureInfo = [
-    { id: 'infra-1', label: 'Total Campus Area of the School (in Sq Mtr)', value: '8000 Sq. Mtr.' },
-    { id: 'infra-2', label: 'No. and Size of the Class Rooms (in Sq Mtr)', value: '40 (Approx 46 Sq. Mtr. each)' },
+    { id: 'infra-1', label: 'Total Campus Area of the School (in Sq Mtr)', value: '6000 Sq. Mtr.' },
+    { id: 'infra-2', label: 'No. and Size of the Class Rooms (in Sq Mtr)', value: '45 (Approx 46 Sq. Mtr. each)' },
     { id: 'infra-3', label: 'No. and Size of Laboratories including Computer Labs (in Sq Mtr)', value: '4 (Approx 55 Sq. Mtr. each)' },
     { id: 'infra-4', label: 'Internet Facility', value: 'Yes (Broadband/Wi-Fi)' },
     { id: 'infra-5', label: 'No. of Girls Toilets', value: '15' },
