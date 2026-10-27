@@ -5,7 +5,7 @@ import { ChevronLeft, ChevronRight } from 'lucide-react';
 // 🛑 IMAGE IMPORT (Sabse safe tareeqa)
 // Apni image ko src/assets folder me rakhein aur yahan aise import karein:
 // Dhyan dein: Agar aapka HeroSlider kisi aur folder me hai, toh path ('../../assets/...') apne hisab se adjust kar lein.
-import bgImage from '../assets/oxford-hero.jpeg'; 
+import bgImage from '../assets/IMG-20261026-WA0000.jpg'; 
 
 function HeroSlider() {
   const [currentSlide, setCurrentSlide] = useState(0);
